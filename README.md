@@ -45,14 +45,24 @@
 - Item Selector
 
   * ID or class of the item inside the items container.
+  
+## JetSmartFilters
+
+- Enable for JetSmartFilters compatibility.
+
+  * Only works for Elementor Pro Archive Posts, Elementor Pro Posts, Elementor Pro Archive Products and Elementor Pro Products.
+  
+  * Only works with pagination base "page".
+  
+  * Set filter setting "Apply type" to "AJAX" and "Apply on" to "Value change".
      
-## Bottom Offset:
+## Bottom Offset
 
 - If your site has a footer.
 
   * This only applies to "Infinite Scroll". The higher the number the sooner new items will load.
    
-## Animation Time:
+## Animation Time
 
 - The items render animation time when new items are loaded.
    
