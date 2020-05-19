@@ -44,7 +44,7 @@
   
 - Item Selector
 
-  * ID or class of the items inside the content selector container.
+  * ID or class of the item inside the items container.
      
 ## Bottom Offset:
 
