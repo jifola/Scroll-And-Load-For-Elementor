@@ -50,7 +50,7 @@
 
 - Enable for JetSmartFilters compatibility.
 
-  * Only works for Elementor Pro Archive Posts, Elementor Pro Posts, Elementor Pro Archive Products and Elementor Pro Products.
+  * Only works with Elementor Pro Archive Posts, Elementor Pro Posts, Elementor Pro Archive Products and Elementor Pro Products.
   
   * Only works with pagination base "page".
   
