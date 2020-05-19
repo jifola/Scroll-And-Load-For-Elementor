@@ -9,38 +9,47 @@
 - Infinite Scroll
 
 - Load More
+
   * "Assign Load More ID" and apply Elementor button widget.
   
 ## Pagination For
 
 - Elementor Pro Archive Posts
+
   * Set pagination for "Archive Posts" to "Previous/Next" or "Numbers + Previous/Next".
   
 - Elementor Pro Posts
+
   * Set pagination for "Posts" to "Previous/Next" or "Numbers + Previous/Next".
   
 - Elementor Pro Archive Products
   
 - Elementor Pro Products
+
   * Enable pagination for "Products".
 	
 ## Custom Selectors
 
 - Navigation Selector
+
   * The pagination container.
   
 - Next Selector
+
   * The next anchor in the pagination container.
   
 - Content Selector
+
   * The container of the items.
   
 - Item Selector
+
   * The items inside the container.
      
 ## Bottom Offset:
 
 - If your site has a footer.
+
   * This only applies to "Infinite Scroll". The higher the number the sooner new items will load.
    
 ## Animation Time:
