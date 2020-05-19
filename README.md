@@ -2,7 +2,7 @@
 
 ## Scroll And Load widget
 
-- Locate the "Scroll And Load" widget in the widget panel, under category "Scroll And Load".
+- Locate the "Scroll And Load" widget in the widget panel, under category "Scroll And Load", and place it anywhere on the page.
 
 ## Apply Type 
 
