@@ -44,17 +44,17 @@
 ## Assign Load More ID
 - Insert a section or inner section on the page and give it ID or class (E.g. load-more-container). And insert a Elementor button widget inside.
 - In the input for "Assign Load More ID" insert ID (E.g. #load-more-container) or class (E.g. .load-more-container).
-   * Mandatory if you have applied type "Load More".
+  * Mandatory if you have applied type "Load More".
    
 ## Assign Loading Image ID
 - Insert a section or inner section on the page and give it ID or class (E.g. loading-image-container). And insert a image widget inside.
 - In the input for "Assign Loading Image ID" insert ID (E.g. #loading-image-container) or class (E.g. .loading-image-container).
-   * Optional.
+  * Optional.
    
 ## Assign No More Items ID
 - Insert a section or inner section on the page and give it ID or class (E.g. no-more-items-container). And insert a heading or text widget inside.
 - In the input for "Assign No More Items ID" insert ID (E.g. #no-more-items-container) or class (E.g. .no-more-items-container).
-   * Optional.
+  * Optional.
 
 # Changelog
 
