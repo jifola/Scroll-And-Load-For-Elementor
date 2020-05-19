@@ -1,6 +1,6 @@
 # How to use
 
-## Scroll And Load widget.
+## Scroll And Load widget
 - Locate the "Scroll And Load" widget in the widget panel, under category "Scroll And Load".
 
 ## Apply Type 
