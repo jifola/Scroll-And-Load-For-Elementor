@@ -63,5 +63,5 @@
 
 # Changelog
 
-- Version 1.0.0 - XX/XX/XXXX 
+- Version 1.0.0
   * Release.
