@@ -32,19 +32,19 @@
 
 - Navigation Selector
 
-  * The pagination container.
+  * ID or class of the pagination container.
   
 - Next Selector
 
-  * The next anchor in the pagination container.
+  * ID or class of the next anchor in the pagination container.
   
 - Content Selector
 
-  * The container of the items.
+  * ID or class of the items container.
   
 - Item Selector
 
-  * The items inside the container.
+  * ID or class of the items inside the content selector container.
      
 ## Bottom Offset:
 
