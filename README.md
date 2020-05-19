@@ -8,7 +8,7 @@
 - Load More
   * "Assign Load More ID" and apply Elementor button widget.
   
-## Pagination for
+## Pagination For
 - Elementor Pro Archive Posts
   * Set pagination for "Archive Posts" to "Previous/Next" or "Numbers + Previous/Next".
   
@@ -38,7 +38,7 @@
   * This only applies to "Infinite Scroll".
   * The higher the number the sooner new items will load.
    
-## Animation time:
+## Animation Time:
 - The items render animation time when new items are loaded.
    
 ## Assign Load More ID
