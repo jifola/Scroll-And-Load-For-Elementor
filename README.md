@@ -35,10 +35,8 @@
   * The items inside the container.
      
 ## Bottom Offset:
-- If your site has a footer. 
-  * This only applies to "Infinite Scroll".
-  
-  * The higher the number the sooner new items will load.
+- If your site has a footer.
+  * This only applies to "Infinite Scroll". The higher the number the sooner new items will load.
    
 ## Animation Time:
 - The items render animation time when new items are loaded.
