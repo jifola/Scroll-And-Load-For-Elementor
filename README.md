@@ -45,17 +45,7 @@
 - Item Selector
 
   * ID or class of the item inside the items container.
-  
-## JetSmartFilters
-
-- Enable for JetSmartFilters compatibility.
-
-  * Only works with Elementor Pro Archive Posts, Elementor Pro Posts, Elementor Pro Archive Products and Elementor Pro Products.
-  
-  * Only works with pagination base "page".
-  
-  * Set filter setting "Apply type" to "AJAX" and "Apply on" to "Value change".
-     
+       
 ## Bottom Offset
 
 - If your site has a footer.
@@ -65,6 +55,16 @@
 ## Animation Time
 
 - The items render animation time when new items are loaded.
+
+## JetSmartFilters
+
+- Enable for JetSmartFilters compatibility.
+
+  * Only works with Elementor Pro Archive Posts, Elementor Pro Posts, Elementor Pro Archive Products and Elementor Pro Products.
+  
+  * Only works with pagination base "page".
+  
+  * Set filter setting "Apply type" to "AJAX" and "Apply on" to "Value change".
    
 ## Assign Load More ID
 
