@@ -5,6 +5,7 @@
 
 ## Apply Type 
 - Infinite Scroll
+
 - Load More
   * "Assign Load More ID" and apply Elementor button widget.
   
@@ -36,6 +37,7 @@
 ## Bottom Offset:
 - If your site has a footer. 
   * This only applies to "Infinite Scroll".
+  
   * The higher the number the sooner new items will load.
    
 ## Animation Time:
@@ -63,3 +65,5 @@
 
 - Version 1.0.0 - XX/XX/XXXX 
   * Release.
+  
+  
