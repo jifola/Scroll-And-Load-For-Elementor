@@ -95,3 +95,5 @@
 - Version 1.0.0
 
   * Fixed: Elementor post thumbnail missing image ratio on more load.
+  
+  * Fixed: Scrolling to the bottom of the page is now possible when using "Infinite Scroll". Changed "Bottom Offset" default value.
