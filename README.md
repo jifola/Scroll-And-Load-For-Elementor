@@ -93,3 +93,5 @@
 # Changelog
 
 - Version 1.0.0
+
+  * Fixed: Elementor post thumbnail missing image ratio on more load.
