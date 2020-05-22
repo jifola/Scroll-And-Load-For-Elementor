@@ -45,12 +45,20 @@
 - Item Selector
 
   * ID or class of the item inside the items container.
-       
+  
+## Image Ratio
+
+- If post thumbnail has image ratio.
+
+  * Should only be used with Elementor Pro Archive Posts and Elementor Pro Posts.
+  
+  * Should only be used if "Masonry" setting is set to "off".
+     
 ## Bottom Offset
 
 - If your site has a footer.
 
-  * This only applies to "Infinite Scroll". The higher the number the sooner new items will load.
+  * This only applies to "Infinite Scroll". The higher the number the sooner new items will load. 
    
 ## Animation Time
 
@@ -97,3 +105,6 @@
   * Fixed: Elementor post thumbnail missing image ratio on more load.
   
   * Fixed: Scrolling to the bottom of the page is now possible when using "Infinite Scroll". Changed "Bottom Offset" default value.
+  
+  * Added: Image ratio changed to user setting.
+  
