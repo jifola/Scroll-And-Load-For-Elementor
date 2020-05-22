@@ -52,7 +52,7 @@
 
   * Should only be used with Elementor Pro Archive Posts and Elementor Pro Posts.
   
-  * Should only be used if "Masonry" setting is set to "off".
+  * Should only be used if "Masonry" setting is set to "Off".
      
 ## Bottom Offset
 
