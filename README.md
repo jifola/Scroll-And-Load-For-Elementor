@@ -3,6 +3,7 @@
 ## Scroll And Load widget
 
 - Locate the "Scroll And Load" widget in the widget panel, under category "SCROLL AND LOAD", and place it anywhere on the page.
+  * It should not be placed in a section or inner section on it's own, or you will just have a empty section.
 
 ## Apply Type 
 
@@ -21,6 +22,10 @@
 - Elementor Pro Posts
 
   * Set pagination for "Posts" to "Previous/Next" or "Numbers + Previous/Next".
+  
+- Elementor Pro Single Post
+
+  * Read "Assign Single Post ID".
   
 - Elementor Pro Archive Products
   
@@ -97,6 +102,16 @@
 - In the input for "Assign No More Items ID" insert ID (E.g. #no-more-items-container) or class (E.g. .no-more-items-container).
 
   * Optional.
+  
+## Assign Single Post ID
+
+- Go to "Templates" and "Add New". Select "Single" and "Post".
+
+- Insert a section on the page and give it ID or class (E.g. single-post-container). And insert "Post Title" widget, "Post Content" widget and "Scroll And Load" widget inside.
+
+- In the input for "Assign Single Post ID" insert ID (E.g. #single-post-container) or class (E.g. .single-post-container).
+
+  * Sections for "Assign Load More ID", "Assign Loading Image ID" and "Assign No More Items ID" should NOT be placed inside this section (E.g. single-post-container). They should be added to their own sections after this section (E.g. single-post-container).
 
 # Changelog
 
@@ -107,4 +122,6 @@
   * Fixed: Scrolling to the bottom of the page is now possible when using "Infinite Scroll". Changed "Bottom Offset" default value.
   
   * Added: Image ratio changed to user setting.
+  
+  * Added: Elementor Pro Single Post.
   
