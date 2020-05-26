@@ -107,7 +107,7 @@
 
 - Go to "Templates" and "Add New". Select "Single" and "Post".
 
-- Insert a section on the page and give it ID or class (E.g. single-post-container). And insert "Post Title" widget, "Post Content" widget and "Scroll And Load" widget inside.
+- Insert a section on the page and give it ID or class (E.g. single-post-container). And insert "Scroll And Load" widget inside. Insert single post related widgets inside. E.g. "Post Title", "Post Content", "Post Info" and "Post Comments".
 
 - In the input for "Assign Single Post ID" insert ID (E.g. #single-post-container) or class (E.g. .single-post-container).
 
