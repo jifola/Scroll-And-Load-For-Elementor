@@ -124,4 +124,3 @@
   * Added: Image ratio changed to user setting.
   
   * Added: Elementor Pro Single Post.
-  
