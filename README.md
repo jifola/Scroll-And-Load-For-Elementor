@@ -125,5 +125,5 @@
   
   * Added: Elementor Pro Single Post.
   
-  * Removed License
+  * Removed License.
   
