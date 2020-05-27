@@ -3,7 +3,7 @@
 ## Scroll And Load widget
 
 - Locate the "Scroll And Load" widget in the widget panel, under category "SCROLL AND LOAD", and place it anywhere on the page.
-  * It should not be placed in a section or inner section on it's own, or you will just have a empty section.
+  * It should not be placed in a section or inner section on it's own, or you will just have a empty section. Unless "Assign Widget ID" is used.
 
 ## Apply Type 
 
@@ -107,11 +107,21 @@
 
 - Go to "Templates" and "Add New". Select "Single" and "Post".
 
-- Insert a section on the page and give it ID or class (E.g. single-post-container). And insert "Scroll And Load" widget inside. Insert single post related widgets inside. E.g. "Post Title", "Post Content", "Post Info" and "Post Comments".
+- Insert a section on the page and give it ID or class (E.g. single-post-container). And insert single post related widgets inside. E.g. "Post Title", "Post Content", "Post Info" and "Post Comments".
 
 - In the input for "Assign Single Post ID" insert ID (E.g. #single-post-container) or class (E.g. .single-post-container).
 
+- Insert a section on the page and give it ID or class (E.g. widget-container). And insert "Scroll And Load" widgets inside.
+
+- In the input for "Assign Widget ID" insert ID (E.g. #widget-container) or class (E.g. .widget-container).
+
   * Sections for "Assign Load More ID", "Assign Loading Image ID" and "Assign No More Items ID" should NOT be placed inside this section (E.g. single-post-container). They should be added to their own sections after this section (E.g. single-post-container).
+  
+## Assign Widget ID
+
+- Is used with "Elementor Pro Single Post" to avoid the "Scroll And Load" widget loading multiple times. Read "Assign Single Post ID".
+
+  * Not restricted to "Elementor Pro Single Post". Can also be used if you want to place "Scroll And Load" widget in a section of it's own.
 
 # Changelog
 
@@ -124,3 +134,6 @@
   * Added: Image ratio changed to user setting.
   
   * Added: Elementor Pro Single Post.
+  
+  * Added: Assign Widget ID.
+  
