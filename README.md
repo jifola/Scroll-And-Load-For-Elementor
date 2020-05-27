@@ -121,7 +121,7 @@
 
 - Is used with "Elementor Pro Single Post" to avoid the "Scroll And Load" widget loading multiple times. Read "Assign Single Post ID".
 
-  * Not restricted to "Elementor Pro Single Post". Can also be used if you want to place "Scroll And Load" widget in a section of it's own.
+  * Not restricted to "Elementor Pro Single Post". Can also be used if you want to place "Scroll And Load" widget in a section on it's own.
 
 # Changelog
 
