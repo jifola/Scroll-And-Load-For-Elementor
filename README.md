@@ -1,1 +1,1 @@
-Visit http://www.scrollandload.com/ for documentation.
+Visit https://www.scrollandload.com/ for documentation and working examples.
