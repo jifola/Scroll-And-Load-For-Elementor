@@ -1,1 +1,1 @@
-Visit <a href="https://www.scrollandload.com/" target="blank">https://www.scrollandload.com/</a> for documentation and working examples.
+Visit https://www.scrollandload.com/ for documentation and working examples.
